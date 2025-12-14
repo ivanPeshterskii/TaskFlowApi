@@ -16,12 +16,6 @@ This project is a strong **portfolio piece** for backend developer roles and sho
 
 ---
 
-## 🎬 Demo
-
-![TaskFlow Demo](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
-
----
-
 ## 🧩 Features
 
 - **Create Task** (`POST /api/tasks/create`) – Admin/Manager only  
